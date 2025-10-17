@@ -5,12 +5,12 @@ export function About() {
     <section className="py-16 md:py-24 bg-muted/30">
       <div className="px-4 md:px-6">
         <div className="text-center mb-12">
-          <h2 className="text-3xl font-bold tracking-tight sm:text-4xl mb-4">Về Quán Chè Song Điệp</h2>
+          <h2 className="text-3xl font-bold tracking-tight sm:text-4xl mb-4">Về Chè Thái Song Điệp</h2>
         </div>
         <div className="grid gap-8 lg:grid-cols-2 items-center max-w-6xl mx-auto">
           <div className="space-y-6">
             <p className="text-lg leading-relaxed text-muted-foreground">
-              Quán Chè Song Điệp là điểm hẹn thân quen của những ai yêu thích hương vị dân dã, ngọt thanh tự nhiên.
+              Chè Thái Song Điệp là điểm hẹn thân quen của những ai yêu thích hương vị dân dã, ngọt thanh tự nhiên.
             </p>
             <p className="text-lg leading-relaxed text-muted-foreground">
               Từ ly chè mát lạnh đến ly sinh tố tươi ngon, chúng tôi mang đến sự tươi mới mỗi ngày cho bạn. Với công

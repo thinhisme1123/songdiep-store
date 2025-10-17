@@ -7,8 +7,8 @@ import { Suspense } from "react"
 import { Be_Vietnam_Pro } from "next/font/google"
 
 export const metadata: Metadata = {
-  title: "Quán Chè Song Điệp - Chè & Sinh Tố",
-  description: "Quán Chè Song Điệp – Chè, sinh tố và các món giải khát tươi mát, đậm đà hương vị Việt Nam.",
+  title: "Chè Thái Song Điệp - Chè & Sinh Tố",
+  description: "Chè Thái Song Điệp – Chè, sinh tố và các món giải khát tươi mát, đậm đà hương vị Việt Nam.",
   generator: "v0.app",
 }
 

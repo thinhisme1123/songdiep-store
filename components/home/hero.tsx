@@ -10,7 +10,7 @@ export function Hero() {
           <div className="flex flex-col gap-6">
             <div>
               <h1 className="text-5xl font-bold tracking-tight sm:text-6xl md:text-7xl text-balance mb-4">
-                Quán Chè Song Điệp
+                Chè Thái Song Điệp
               </h1>
               <p className="text-xl md:text-2xl text-muted-foreground leading-relaxed">
                 Ngọt mát hương vị quê nhà — Chè, sinh tố, trà và những món ngon dân dã.
@@ -28,7 +28,7 @@ export function Hero() {
           <div className="relative aspect-square lg:aspect-auto lg:h-[500px]">
             <Image
               src="/logo/logo.png"
-              alt="Quán Chè Song Điệp"
+              alt="Chè Thái Song Điệp"
               fill
               className="object-cover rounded-2xl shadow-2xl"
               priority

@@ -31,7 +31,7 @@ export function Header() {
           <div className="flex h-10 w-10 items-center justify-center rounded-full bg-primary">
             <img className="rounded-full" src="/logo/logo.jpeg" alt="" />
           </div>
-          <span className="text-xl font-bold text-foreground">Quán Chè Song Điệp</span>
+          <span className="text-xl font-bold text-foreground">Chè Thái Song Điệp</span>
         </Link>
 
         {/* Desktop Navigation */}

@@ -29,6 +29,14 @@ const galleryImages = [
     src: "/placeholder.svg?height=400&width=400",
     alt: "Khách hàng vui vẻ",
   },
+  {
+    src: "/placeholder.svg?height=400&width=400",
+    alt: "Khách hàng vui vẻ",
+  },
+  {
+    src: "/placeholder.svg?height=400&width=400",
+    alt: "Khách hàng vui vẻ",
+  },
 ]
 
 export function Gallery() {
@@ -41,7 +49,7 @@ export function Gallery() {
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold tracking-tight sm:text-4xl mb-4">Góc Hình Quán</h2>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto leading-relaxed">
-              Khám phá không gian và những món ngon tại Quán Chè Song Điệp
+              Khám phá không gian và những món ngon tại Chè Thái Song Điệp
             </p>
           </div>
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">

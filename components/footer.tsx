@@ -12,7 +12,7 @@ export function Footer() {
               <div className="flex h-10 w-10 items-center justify-center rounded-full bg-primary">
                 <img className="rounded-full" src="/logo/logo.jpeg" alt="" />
               </div>
-              <span className="text-lg font-bold">Quán Chè Song Điệp</span>
+              <span className="text-lg font-bold">Chè Thái Song Điệp</span>
             </div>
             <p className="text-sm text-muted-foreground leading-relaxed">
               Ngọt mát hương vị quê nhà — Chè, sinh tố, trà và những món ngon dân dã.
@@ -96,7 +96,7 @@ export function Footer() {
         </div>
 
         <div className="mt-8 pt-8 border-t text-center text-sm text-muted-foreground">
-          <p>&copy; {new Date().getFullYear()} TheoBinh - Quán Chè Song Điệp — Giữ trọn vị ngọt Việt.</p>
+          <p>&copy; {new Date().getFullYear()} TheoBinh - Chè Thái Song Điệp — Giữ trọn vị ngọt Việt.</p>
         </div>
       </div>
     </footer>

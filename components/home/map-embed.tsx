@@ -9,7 +9,7 @@ export function MapEmbed() {
         allowFullScreen
         loading="lazy"
         referrerPolicy="no-referrer-when-downgrade"
-        title="Quán Chè Song Điệp Location"
+        title="Chè Thái Song Điệp Location"
       />
     </div>
   )
