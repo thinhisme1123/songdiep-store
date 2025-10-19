@@ -24,14 +24,14 @@ export function About() {
           </div>
           <div className="grid grid-cols-2 gap-4">
             <div className="relative aspect-square rounded-2xl overflow-hidden">
-              <Image src="/placeholder.svg?height=300&width=300" alt="Không gian quán" fill className="object-cover" />
+              <Image src="/anhquan/hinh-quan-1.jpg" alt="Không gian quán" fill className="object-cover" />
             </div>
             <div className="relative aspect-square rounded-2xl overflow-hidden">
-              <Image src="/placeholder.svg?height=300&width=300" alt="Chế biến món ăn" fill className="object-cover" />
+              <Image src="/anhquan/hinh-quan-2.jpg" alt="Chế biến món ăn" fill className="object-cover" />
             </div>
             <div className="relative aspect-square rounded-2xl overflow-hidden col-span-2">
               <Image
-                src="/placeholder.svg?height=300&width=600"
+                src="/anhquan/hinh-quan-3.jpg"
                 alt="Khách hàng thưởng thức"
                 fill
                 className="object-cover"

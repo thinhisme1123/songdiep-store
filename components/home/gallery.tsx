@@ -6,37 +6,21 @@ import { X } from "lucide-react"
 
 const galleryImages = [
   {
-    src: "/placeholder.svg?height=400&width=400",
+    src: "/anhquan/hinh-quan-1.jpg",
     alt: "Chè đầy màu sắc",
   },
   {
-    src: "/placeholder.svg?height=400&width=400",
+    src: "/anhquan/hinh-quan-2.jpg",
     alt: "Sinh tố tươi ngon",
   },
   {
-    src: "/placeholder.svg?height=400&width=400",
+    src: "/anhquan/hinh-quan-3.jpg",
     alt: "Trà sữa trân châu",
   },
   {
-    src: "/placeholder.svg?height=400&width=400",
+    src: "/anhquan/hinh-quan-4.png",
     alt: "Không gian quán",
-  },
-  {
-    src: "/placeholder.svg?height=400&width=400",
-    alt: "Khu vực chế biến",
-  },
-  {
-    src: "/placeholder.svg?height=400&width=400",
-    alt: "Khách hàng vui vẻ",
-  },
-  {
-    src: "/placeholder.svg?height=400&width=400",
-    alt: "Khách hàng vui vẻ",
-  },
-  {
-    src: "/placeholder.svg?height=400&width=400",
-    alt: "Khách hàng vui vẻ",
-  },
+  }
 ]
 
 export function Gallery() {
